@@ -1,0 +1,53 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.json
+
+# Model weights and checkpoints
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Logs and output
+logs/
+*.log
+output/
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+*.bak
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+
+runs/
